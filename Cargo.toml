@@ -1,0 +1,9 @@
+[package]
+name = "codeless"
+version = "0.1.0"
+authors = ["CookieCrumb23"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.4"
+select = "0.4.2"
